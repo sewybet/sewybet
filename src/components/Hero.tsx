@@ -5,17 +5,11 @@ import { motion } from 'framer-motion';
 export default function Hero() {
 
     const trustedUserImages = [
-        'https://images.pexels.com/photos/47344/dollar-currency-money-us-dollar-47344.jpeg',
-        'https://images.pexels.com/photos/47344/dollar-currency-money-us-dollar-47344.jpeg',
-        'https://images.pexels.com/photos/47344/dollar-currency-money-us-dollar-47344.jpeg'
     ];
 
     const mainImageUrl = 'https://ibb.co.com/k6Mjbwsj';
 
     const galleryStripImages = [
-        'https://ibb.co.com/k6Mjbwsj',
-        'https://ibb.co.com/k6Mjbwsj',
-        'https://ibb.co.com/k6Mjbwsj',
     ];
 
     const trustedLogosText = [
