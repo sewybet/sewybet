@@ -4,13 +4,11 @@ import { motion } from 'framer-motion';
 
 export default function Hero() {
 
-    const trustedUserImages = [
-    ];
+    const trustedUserImages = [];
 
     const mainImageUrl = 'https://ibb.co.com/k6Mjbwsj';
 
-    const galleryStripImages = [
-    ];
+    const galleryStripImages = [];
 
     const trustedLogosText = [
             'BRUTAL',
