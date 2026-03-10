@@ -55,9 +55,9 @@ export default function Hero() {
                                 viewport={{ once: true }}
                                 transition={{ type: "spring", stiffness: 250, damping: 70, mass: 1, delay: 0.1 }}
                             >
-                                WE DESIGN AND BUILD <br />
+                                WELCOME <br />
                                 <span className="bg-clip-text text-transparent bg-linear-to-r from-indigo-300 to-indigo-400">
-                                    CHEAT AND APP
+                                    TO SEWYBET STORE
                                 </span>
                             </motion.h1>
 
