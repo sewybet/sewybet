@@ -46,11 +46,11 @@ export default function Footer() {
 
                 <p className="py-4 text-center text-sm text-gray-400">
                     © {new Date().getFullYear()} {' '}
-                    <a href="https://prebuiltui.com/tailwind-templates?ref=pixel-forge" target='_blank'>
-                        PrebuiltUI
+                    <a href="https://t.me/sewybet710" target='_blank'>
+                        sewybet
                     </a> • Distributed by {' '}
-                    <a href="https://themewagon.com" target='_blank'>
-                        ThemeWagon
+                    <a href="https://t.me/sewybet710" target='_blank'>
+                        sewybet
                     </a>
                     . All rights reserved.
                 </p>
